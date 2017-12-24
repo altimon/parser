@@ -1,0 +1,1000 @@
+Project Gutenberg Etext of Hamlet by Shakespeare
+PG has multiple editions of William Shakespeare's Complete Works
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Hamlet, Prince of Denmark
+
+by William Shakespeare [Collins edition]
+
+November, 1998 [Etext #1524]
+Most recently updated: January 26, 2009
+
+
+Project Gutenberg Etext of Hamlet by Shakespeare
+******This file should be named 1524.txt or 1524.zip******
+
+This etext was prepared by Dianne Bean.
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT! keep
+these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This etext was prepared by Dianne Bean.
+
+
+
+
+
+HAMLET, PRINCE OF DENMARK
+
+by William Shakespeare
+
+
+
+
+PERSONS REPRESENTED.
+
+Claudius, King of Denmark.
+Hamlet, Son to the former, and Nephew to the present King.
+Polonius, Lord Chamberlain.
+Horatio, Friend to Hamlet.
+Laertes, Son to Polonius.
+Voltimand, Courtier.
+Cornelius, Courtier.
+Rosencrantz, Courtier.
+Guildenstern, Courtier.
+Osric, Courtier.
+A Gentleman, Courtier.
+A Priest.
+Marcellus, Officer.
+Bernardo, Officer.
+Francisco, a Soldier
+Reynaldo, Servant to Polonius.
+Players.
+Two Clowns, Grave-diggers.
+Fortinbras, Prince of Norway.
+A Captain.
+English Ambassadors.
+Ghost of Hamlet's Father.
+
+Gertrude, Queen of Denmark, and Mother of Hamlet.
+Ophelia, Daughter to Polonius.
+
+Lords, Ladies, Officers, Soldiers, Sailors, Messengers, and other
+Attendants.
+
+SCENE. Elsinore.
+
+
+
+ACT I.
+
+Scene I. Elsinore. A platform before the Castle.
+
+[Francisco at his post. Enter to him Bernardo.]
+
+Ber.
+Who's there?
+
+Fran.
+Nay, answer me: stand, and unfold yourself.
+
+Ber.
+Long live the king!
+
+Fran.
+Bernardo?
+
+Ber.
+He.
+
+Fran.
+You come most carefully upon your hour.
+
+Ber.
+'Tis now struck twelve. Get thee to bed, Francisco.
+
+Fran.
+For this relief much thanks: 'tis bitter cold,
+And I am sick at heart.
+
+Ber.
+Have you had quiet guard?
+
+Fran.
+Not a mouse stirring.
+
+Ber.
+Well, good night.
+If you do meet Horatio and Marcellus,
+The rivals of my watch, bid them make haste.
+
+Fran.
+I think I hear them.--Stand, ho! Who is there?
+
+[Enter Horatio and Marcellus.]
+
+Hor.
+Friends to this ground.
+
+Mar.
+And liegemen to the Dane.
+
+Fran.
+Give you good-night.
+
+Mar.
+O, farewell, honest soldier;
+Who hath reliev'd you?
+
+Fran.
+Bernardo has my place.
+Give you good-night.
+
+[Exit.]
+
+Mar.
+Holla! Bernardo!
+
+Ber.
+Say.
+What, is Horatio there?
+
+Hor.
+A piece of him.
+
+Ber.
+Welcome, Horatio:--Welcome, good Marcellus.
+
+Mar.
+What, has this thing appear'd again to-night?
+
+Ber.
+I have seen nothing.
+
+Mar.
+Horatio says 'tis but our fantasy,
+And will not let belief take hold of him
+Touching this dreaded sight, twice seen of us:
+Therefore I have entreated him along
+With us to watch the minutes of this night;
+That, if again this apparition come
+He may approve our eyes and speak to it.
+
+Hor.
+Tush, tush, 'twill not appear.
+
+Ber.
+Sit down awhile,
+And let us once again assail your ears,
+That are so fortified against our story,
+What we two nights have seen.
+
+Hor.
+Well, sit we down,
+And let us hear Bernardo speak of this.
+
+Ber.
+Last night of all,
+When yond same star that's westward from the pole
+Had made his course to illume that part of heaven
+Where now it burns, Marcellus and myself,
+The bell then beating one,--
+
+Mar.
+Peace, break thee off; look where it comes again!
+
+[Enter Ghost, armed.]
+
+Ber.
+In the same figure, like the king that's dead.
+
+Mar.
+Thou art a scholar; speak to it, Horatio.
+
+Ber.
+Looks it not like the King? mark it, Horatio.
+
+Hor.
+Most like:--it harrows me with fear and wonder.
+
+Ber.
+It would be spoke to.
+
+Mar.
+Question it, Horatio.
+
+Hor.
+What art thou, that usurp'st this time of night,
+Together with that fair and warlike form
+In which the majesty of buried Denmark
+Did sometimes march? By heaven I charge thee, speak!
+
+Mar.
+It is offended.
+
+Ber.
+See, it stalks away!
+
+Hor.
+Stay! speak, speak! I charge thee speak!
+
+[Exit Ghost.]
+
+Mar.
+'Tis gone, and will not answer.
+
+Ber.
+How now, Horatio! You tremble and look pale:
+Is not this something more than fantasy?
+What think you on't?
+
+Hor.
+Before my God, I might not this believe
+Without the sensible and true avouch
+Of mine own eyes.
+
+Mar.
+Is it not like the King?
+
+Hor.
+As thou art to thyself:
+Such was the very armour he had on
+When he the ambitious Norway combated;
+So frown'd he once when, in an angry parle,
+He smote the sledded Polacks on the ice.
+'Tis strange.
+
+Mar.
+Thus twice before, and jump at this dead hour,
+With martial stalk hath he gone by our watch.
+
+Hor.
+In what particular thought to work I know not;
+But, in the gross and scope of my opinion,
+This bodes some strange eruption to our state.
+
+Mar.
+Good now, sit down, and tell me, he that knows,
+Why this same strict and most observant watch
+So nightly toils the subject of the land;
+And why such daily cast of brazen cannon,
+And foreign mart for implements of war;
+Why such impress of shipwrights, whose sore task
+Does not divide the Sunday from the week;
+What might be toward, that this sweaty haste
+Doth make the night joint-labourer with the day:
+Who is't that can inform me?
+
+Hor.
+That can I;
+At least, the whisper goes so. Our last king,
+Whose image even but now appear'd to us,
+Was, as you know, by Fortinbras of Norway,
+Thereto prick'd on by a most emulate pride,
+Dar'd to the combat; in which our valiant Hamlet,--
+For so this side of our known world esteem'd him,--
+Did slay this Fortinbras; who, by a seal'd compact,
+Well ratified by law and heraldry,
+Did forfeit, with his life, all those his lands,
+Which he stood seiz'd of, to the conqueror:
+Against the which, a moiety competent
+Was gaged by our king; which had return'd
+To the inheritance of Fortinbras,
+Had he been vanquisher; as by the same cov'nant,
+And carriage of the article design'd,
+His fell to Hamlet. Now, sir, young Fortinbras,
+Of unimproved mettle hot and full,
+Hath in the skirts of Norway, here and there,
+Shark'd up a list of lawless resolutes,
+For food and diet, to some enterprise
+That hath a stomach in't; which is no other,--
+As it doth well appear unto our state,--
+But to recover of us, by strong hand,
+And terms compulsatory, those foresaid lands
+So by his father lost: and this, I take it,
+Is the main motive of our preparations,
+The source of this our watch, and the chief head
+Of this post-haste and romage in the land.
+
+Ber.
+I think it be no other but e'en so:
+Well may it sort, that this portentous figure
+Comes armed through our watch; so like the king
+That was and is the question of these wars.
+
+Hor.
+A mote it is to trouble the mind's eye.
+In the most high and palmy state of Rome,
+A little ere the mightiest Julius fell,
+The graves stood tenantless, and the sheeted dead
+Did squeak and gibber in the Roman streets;
+As, stars with trains of fire and dews of blood,
+Disasters in the sun; and the moist star,
+Upon whose influence Neptune's empire stands,
+Was sick almost to doomsday with eclipse:
+And even the like precurse of fierce events,--
+As harbingers preceding still the fates,
+And prologue to the omen coming on,--
+Have heaven and earth together demonstrated
+Unto our climature and countrymen.--
+But, soft, behold! lo, where it comes again!
+
+[Re-enter Ghost.]
+
+I'll cross it, though it blast me.--Stay, illusion!
+If thou hast any sound, or use of voice,
+Speak to me:
+If there be any good thing to be done,
+That may to thee do ease, and, race to me,
+Speak to me:
+If thou art privy to thy country's fate,
+Which, happily, foreknowing may avoid,
+O, speak!
+Or if thou hast uphoarded in thy life
+Extorted treasure in the womb of earth,
+For which, they say, you spirits oft walk in death,
+[The cock crows.]
+Speak of it:--stay, and speak!--Stop it, Marcellus!
+
+Mar.
+Shall I strike at it with my partisan?
+
+Hor.
+Do, if it will not stand.
+
+Ber.
+'Tis here!
+
+Hor.
+'Tis here!
+
+Mar.
+'Tis gone!
+
+[Exit Ghost.]
+
+We do it wrong, being so majestical,
+To offer it the show of violence;
+For it is, as the air, invulnerable,
+And our vain blows malicious mockery.
+
+Ber.
+It was about to speak, when the cock crew.
+
+Hor.
+And then it started, like a guilty thing
+Upon a fearful summons. I have heard
+The cock, that is the trumpet to the morn,
+Doth with his lofty and shrill-sounding throat
+Awake the god of day; and at his warning,
+Whether in sea or fire, in earth or air,
+The extravagant and erring spirit hies
+To his confine: and of the truth herein
+This present object made probation.
+
+Mar.
+It faded on the crowing of the cock.
+Some say that ever 'gainst that season comes
+Wherein our Saviour's birth is celebrated,
+The bird of dawning singeth all night long;
+And then, they say, no spirit dare stir abroad;
+The nights are wholesome; then no planets strike,
+No fairy takes, nor witch hath power to charm;
+So hallow'd and so gracious is the time.
+
+Hor.
+So have I heard, and do in part believe it.
+But, look, the morn, in russet mantle clad,
+Walks o'er the dew of yon high eastward hill:
+Break we our watch up: and by my advice,
+Let us impart what we have seen to-night
+Unto young Hamlet; for, upon my life,
+This spirit, dumb to us, will speak to him:
+Do you consent we shall acquaint him with it,
+As needful in our loves, fitting our duty?
+
+Mar.
+Let's do't, I pray; and I this morning know
+Where we shall find him most conveniently.
+
+[Exeunt.]
+
+
+
+Scene II. Elsinore. A room of state in the Castle.
+
+[Enter the King, Queen, Hamlet, Polonius, Laertes, Voltimand,
+Cornelius, Lords, and Attendant.]
+
+King.
+Though yet of Hamlet our dear brother's death
+The memory be green, and that it us befitted
+To bear our hearts in grief, and our whole kingdom
+To be contracted in one brow of woe;
+Yet so far hath discretion fought with nature
+That we with wisest sorrow think on him,
+Together with remembrance of ourselves.
+Therefore our sometime sister, now our queen,
+Th' imperial jointress to this warlike state,
+Have we, as 'twere with a defeated joy,--
+With an auspicious and one dropping eye,
+With mirth in funeral, and with dirge in marriage,
+In equal scale weighing delight and dole,--
+Taken to wife; nor have we herein barr'd
+Your better wisdoms, which have freely gone
+With this affair along:--or all, our thanks.
+Now follows, that you know, young Fortinbras,
+Holding a weak supposal of our worth,
+Or thinking by our late dear brother's death
+Our state to be disjoint and out of frame,
+Colleagued with this dream of his advantage,
+He hath not fail'd to pester us with message,
+Importing the surrender of those lands
+Lost by his father, with all bonds of law,
+To our most valiant brother. So much for him,--
+Now for ourself and for this time of meeting:
+Thus much the business is:--we have here writ
+To Norway, uncle of young Fortinbras,--
+Who, impotent and bed-rid, scarcely hears
+Of this his nephew's purpose,--to suppress
+His further gait herein; in that the levies,
+The lists, and full proportions are all made
+Out of his subject:--and we here dispatch
+You, good Cornelius, and you, Voltimand,
+For bearers of this greeting to old Norway;
+Giving to you no further personal power
+To business with the king, more than the scope
+Of these dilated articles allow.
+Farewell; and let your haste commend your duty.
+
+Cor. and Volt.
+In that and all things will we show our duty.
+
+King.
+We doubt it nothing: heartily farewell.
+
+[Exeunt Voltimand and Cornelius.]
+
+And now, Laertes, what's the news with you?
+You told us of some suit; what is't, Laertes?
+You cannot speak of reason to the Dane,
+And lose your voice: what wouldst thou beg, Laertes,
+That shall not be my offer, not thy asking?
+The head is not more native to the heart,
+The hand more instrumental to the mouth,
+Than is the throne of Denmark to thy father.
+What wouldst thou have, Laertes?
+
+Laer.
+Dread my lord,
+Your leave and favour to return to France;
+From whence though willingly I came to Denmark,
+To show my duty in your coronation;
+Yet now, I must confess, that duty done,
+My thoughts and wishes bend again toward France,
+And bow them to your gracious leave and pardon.
+
+King.
+Have you your father's leave? What says Polonius?
+
+Pol.
+He hath, my lord, wrung from me my slow leave
+By laboursome petition; and at last
+Upon his will I seal'd my hard consent:
+I do beseech you, give him leave to go.
+
+King.
+Take thy fair hour, Laertes; time be thine,
+And thy best graces spend it at thy will!--
+But now, my cousin Hamlet, and my son--
+
+Ham.
+[Aside.] A little more than kin, and less than kind!
+
+King.
+How is it that the clouds still hang on you?
+
+Ham.
+Not so, my lord; I am too much i' the sun.
+
+Queen.
+Good Hamlet, cast thy nighted colour off,
+And let thine eye look like a friend on Denmark.
+Do not for ever with thy vailed lids
+Seek for thy noble father in the dust:
+Thou know'st 'tis common,--all that lives must die,
+Passing through nature to eternity.
+
+Ham.
+Ay, madam, it is common.
+
+Queen.
+If it be,
+Why seems it so particular with thee?
+
+Ham.
+Seems, madam! Nay, it is; I know not seems.
+'Tis not alone my inky cloak, good mother,
+Nor customary suits of solemn black,
+Nor windy suspiration of forc'd breath,
+No, nor the fruitful river in the eye,
+Nor the dejected 'havior of the visage,
+Together with all forms, moods, shows of grief,
+That can denote me truly: these, indeed, seem;
+For they are actions that a man might play;
+But I have that within which passeth show;
+These but the trappings and the suits of woe.
+
+King.
+'Tis sweet and commendable in your nature, Hamlet,
+To give these mourning duties to your father;
+But, you must know, your father lost a father;
+That father lost, lost his; and the survivor bound,
+In filial obligation, for some term
+To do obsequious sorrow: but to persevere
+In obstinate condolement is a course
+Of impious stubbornness; 'tis unmanly grief;
+It shows a will most incorrect to heaven;
+A heart unfortified, a mind impatient;
+An understanding simple and unschool'd;
+For what we know must be, and is as common
+As any the most vulgar thing to sense,
+Why should we, in our peevish opposition,
+Take it to heart? Fie! 'tis a fault to heaven,
+A fault against the dead, a fault to nature,
+To reason most absurd; whose common theme
+Is death of fathers, and who still hath cried,
+From the first corse till he that died to-day,
+'This must be so.' We pray you, throw to earth
+This unprevailing woe; and think of us
+As of a father: for let the world take note
+You are the most immediate to our throne;
+And with no less nobility of love
+Than that which dearest father bears his son
+Do I impart toward you. For your intent
+In going back to school in Wittenberg,
+It is most retrograde to our desire:
+And we beseech you bend you to remain
+Here in the cheer and comfort of our eye,
+Our chiefest courtier, cousin, and our son.
+
+Queen.
+Let not thy mother lose her prayers, Hamlet:
+I pray thee stay with us; go not to Wittenberg.
+
+Ham.
+I shall in all my best obey you, madam.
+
+King.
+Why, 'tis a loving and a fair reply:
+Be as ourself in Denmark.--Madam, come;
+This gentle and unforc'd accord of Hamlet
+Sits smiling to my heart: in grace whereof,
+No jocund health that Denmark drinks to-day
+But the great cannon to the clouds shall tell;
+And the king's rouse the heaven shall bruit again,
+Re-speaking earthly thunder. Come away.
+
+[Exeunt all but Hamlet.]
+
+Ham.
+O that this too too solid flesh would melt,
+Thaw, and resolve itself into a dew!
+Or that the Everlasting had not fix'd
+His canon 'gainst self-slaughter! O God! O God!
+How weary, stale, flat, and unprofitable
+Seem to me all the uses of this world!
+Fie on't! O fie! 'tis an unweeded garden,
+That grows to seed; things rank and gross in nature
+Possess it merely. That it should come to this!
+But two months dead!--nay, not so much, not two:
+So excellent a king; that was, to this,
+Hyperion to a satyr; so loving to my mother,
+That he might not beteem the winds of heaven
+Visit her face too roughly. Heaven and earth!
+Must I remember? Why, she would hang on him
+As if increase of appetite had grown
+By what it fed on: and yet, within a month,--
+Let me not think on't,--Frailty, thy name is woman!--
+A little month; or ere those shoes were old
+With which she followed my poor father's body
+Like Niobe, all tears;--why she, even she,--
+O God! a beast that wants discourse of reason,
+Would have mourn'd longer,--married with mine uncle,
+My father's brother; but no more like my father
+Than I to Hercules: within a month;
+Ere yet the salt of most unrighteous tears
+Had left the flushing in her galled eyes,
+She married:-- O, most wicked speed, to post
+With such dexterity to incestuous sheets!
+It is not, nor it cannot come to good;
+But break my heart,--for I must hold my tongue!
+
+[Enter Horatio, Marcellus, and Bernardo.]
+
+Hor.
+Hail to your lordship!
+
+Ham.
+I am glad to see you well:
+Horatio,--or I do forget myself.
+
+Hor.
+The same, my lord, and your poor servant ever.
+
+Ham.
+Sir, my good friend; I'll change that name with you:
+And what make you from Wittenberg, Horatio?--
+Marcellus?
+
+Mar.
+My good lord,--
+
+Ham.
+I am very glad to see you.--Good even, sir.--
+But what, in faith, make you from Wittenberg?
+
+Hor.
+A truant disposition, good my lord.
+
+Ham.
+I would not hear your enemy say so;
+Nor shall you do my ear that violence,
+To make it truster of your own report
+Against yourself: I know you are no truant.
+But what is your affair in Elsinore?
+We'll teach you to drink deep ere you depart.
+
+Hor.
+My lord, I came to see your father's funeral.
+
+Ham.
+I prithee do not mock me, fellow-student.
+I think it was to see my mother's wedding.
+
+Hor.
+Indeed, my lord, it follow'd hard upon.
+
+Ham.
+Thrift, thrift, Horatio! The funeral bak'd meats
+Did coldly furnish forth the marriage tables.
+Would I had met my dearest foe in heaven
+Or ever I had seen that day, Horatio!--
+My father,--methinks I see my father.
+
+Hor.
+Where, my lord?
+
+Ham.
+In my mind's eye, Horatio.
+
+Hor.
+I saw him once; he was a goodly king.
+
+Ham.
+He was a man, take him for all in all,
+I shall not look upon his like again.
+
+Hor.
+My lord, I think I saw him yesternight.
+
+Ham.
+Saw who?
+
+Hor.
+My lord, the king your father.
+
+Ham.
+The King my father!
+
+Hor.
+Season your admiration for awhile
+With an attent ear, till I may deliver,
+Upon the witness of these gentlemen,
+This marvel to you.
+
+Ham.
+For God's love let me hear.
+
+Hor.
+Two nights together had these gentlemen,
+Marcellus and Bernardo, on their watch
+In the dead vast and middle of the night,
+Been thus encounter'd. A figure like your father,
+Armed at point exactly, cap-a-pe,
+Appears before them and with solemn march
+Goes slow and stately by them: thrice he walk'd
+By their oppress'd and fear-surprised eyes,
+Within his truncheon's length; whilst they, distill'd
+Almost to jelly with the act of fear,
+Stand dumb, and speak not to him. This to me
+In dreadful secrecy impart they did;
+And I with them the third night kept the watch:
+Where, as they had deliver'd, both in time,
+Form of the thing, each word made true and good,
+The apparition comes: I knew your father;
+These hands are not more like.
+
+Ham.
+But where was this?
+
+Mar.
+My lord, upon the platform where we watch'd.
+
+Ham.
+Did you not speak to it?
+
+Hor.
+My lord, I did;
+But answer made it none: yet once methought
+It lifted up it head, and did address
+Itself to motion, like as it would speak:
+But even then the morning cock crew loud,
+And at the sound it shrunk in haste away,
+And vanish'd from our sight.
+
+Ham.
+'Tis very strange.
+
+Hor.
+As I do live, my honour'd lord, 'tis true;
